@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282146218274'] //ur owner number
-global.ownername = "𝑶𝑾𝑵𝑬𝑹 𝑹𝑰𝑬𝑳𝑩𝑶𝑻𝒁🐤" //ur owner name
-global.ytname = "𝑮𝑨𝑫𝑨 𝒀𝑻 𝑩𝑮🗿" //ur yt chanel name
+global.vcardowner = ['6285896677508'] //ur owner number
+global.ownername = "𝙊𝙒𝙉𝙀𝙍 𝘿𝘼𝙈𝘼𝙍 𝘽𝙊𝙏𝙕😎" //ur owner name
+global.ytname = "𝘿𝘼𝙈𝘼𝙍 𝙔𝙏😱" //ur yt chanel name
 global.socialm = "𝑫𝑶𝑵𝑨𝑺𝑰 𝑩𝑨𝑵𝑮 𝑪𝑯𝑨𝑻 𝑶𝑾𝑵𝑬𝑹🗿" //ur github or insta name
-global.location = "Indonesia, Kaltim,samarinda" //ur location
+global.location = "Indonesia, Lamtim,PasirSakti" //ur location
 
 //bot bomdy 
-global.owner = ['6282146218274']
-global.ownertag = '6282146218274' //ur tag number
-global.botname = ' 𝗥 𝗜 𝗘 𝗟 𝗕 𝗢 𝗧 𝗭 - 𝗠𝗗' //ur bot name
-global.linkz = "donasi bang jan make doang kontl🐤" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'kontol lu kecil🗿' //script link
-global.reactmoji = "🐤" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "𝑹𝒊𝒆𝒍 𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓\n\n\n\n\n\n\n\n\n\n\n2022" //ur sticker watermark packname
-global.author = "𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒓𝒊𝒆𝒍𝒐𝒇𝒄" //ur sticker watermark author
+global.owner = ['6285896677508']
+global.ownertag = '6285896677508' //ur tag number
+global.botname = ' 𝘿 𝘼 𝙈 𝘼 𝙍 𝘽 𝙊 𝙏 𝙕 - 𝙈𝘿' //ur bot name
+global.linkz = "donasi bang jan make doang kontol🐤" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/HKZYxw7GlMM" //ur website to be displayed
+global.botscript = 'NERAKA🤡' //script link
+global.reactmoji = "💀" //ur menu react emoji
+global.themeemoji = "🗿" //ur theme emoji
+global.packname = "𝘿𝘼𝙈𝘼𝙍  𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓\n\n\n\n\n\n\n\n\n\n\n2022" //ur sticker watermark packname
+global.author = "𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝘿𝘼𝙈𝘼𝙍 𝙔𝙏" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
