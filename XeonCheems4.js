@@ -644,7 +644,7 @@ XeonBotInc.sendMessage(from, {text:`\`\`\`「 Bad Word Detected 」\`\`\`\n\n@${
 }
 //antilink youtube video by xeon
 if (AntiLinkYoutubeVid)
-if (budy.includes("https://youtu.be/")){
+if (budy.includes("https://youtube.com/channel/UC5oVGTUAyneOo3AdlW9k13A")){
 if (!isBotAdmins) return
 bvl = `\`\`\`「 YoutTube Video Link Detected 」\`\`\`\n\nAdmin has sent a youtube video link, admin is free to send any link😇`
 if (isAdmins) return reply(bvl)
@@ -3307,7 +3307,7 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
+                                displayText: '𝘿𝘼𝙈𝘼𝙍 𝙔𝙏',
 url: `${global.websitex}`
                                 }
                             }, {
@@ -8750,7 +8750,7 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
 case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 	if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-teks = `*「 ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate 🍜`
+teks = `*「 ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nChat Owner Dek 🍜`
 let buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'Menu 🌺'}, type: 1}
 ]
@@ -8763,7 +8763,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:"I deserve something for my hardwork",
-body: "Click to donate", 
+body: "Donate Chat Owner", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
 mediaUrl: 'https://telegra.ph/file/8737b098fd5702daeb7e0.jpg',
@@ -8779,12 +8779,12 @@ if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 	                let btn = [{
                                 urlButton: {
-                                    displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
+                                    displayText: '𝘿𝘼𝙈𝘼𝙍 𝙔𝙏',
                                     url: `${websitex}`
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
+                                    displayText: '𝐒𝐂𝐑𝐈𝐏𝐓🤡',
                                     url: `${botscript}`
                                 }
                             }, {
@@ -8799,7 +8799,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner 🗿',
+                                    displayText: 'Owner😎',
                                     id: 'owner'
                                 }
                             }]
@@ -8816,8 +8816,8 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         /////////XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤`, url : `${websitex}` } },
-            { urlButton: { displayText: `𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅`, url: `${botscript}` } },
+        	{ urlButton: { displayText: `𝘿𝘼𝙈𝘼𝙍 𝙔𝙏`, url : `${websitex}` } },
+            { urlButton: { displayText: `𝐒𝐂𝐑𝐈𝐏𝐓🤡`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `𝐀𝐋𝐋 𝐌𝐄𝐍𝐔 👾`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `𝐋𝐈𝐒𝐓 𝐌𝐄𝐍𝐔 🤖`, id: 'command'} },
             { quickReplyButton: { displayText: `OwnerKU🗿`, id: 'owner'} }
@@ -10587,10 +10587,7 @@ case 'tqtt':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks To
-XEON BOTZ
-RIELGANS (HANYA KANG RECODE)
-My family
-And all frieds who helped assemble this sexy script !!!`)
+DAMAR BOTZ`)
 break
             default:
                 if (budy.startsWith('=>')) {
