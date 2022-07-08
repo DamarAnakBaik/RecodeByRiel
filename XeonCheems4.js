@@ -3224,12 +3224,12 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
+displayText: 'YOUTUBE🗿',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓🤡',
 url: `${global.botscript}`
 }
 }, {
@@ -3239,12 +3239,12 @@ id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: '𝐌𝐄𝐍𝐔𝐍𝐘𝐀 𝐃𝐈𝐒𝐈𝐍𝐈 𝐓𝐎𝐃🤖',
+displayText: 'MENU NYA DISINI CIL🤖',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
+displayText: 'OWNER😎',
 id: 'owner'
 }
 }]
@@ -3265,12 +3265,12 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
+displayText: 'YOUTUBE🗿',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓🤡',
 url: `${global.botscript}`
 }
 }, {
@@ -3280,12 +3280,12 @@ id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: '𝐌𝐄𝐍𝐔𝐍𝐘𝐀 𝐃𝐈𝐒𝐈𝐍𝐈 𝐓𝐎𝐃🤖',
+displayText: 'MENU NYA DISINI CIL🤖',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
+displayText: 'OWNER😎',
 id: 'owner'
 }
 }]
@@ -3312,7 +3312,7 @@ url: `${global.websitex}`
                                 }
                             }, {
 urlButton: {
-displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓🤡',
 url: `${global.botscript}`
 }
 }, {
@@ -3327,7 +3327,7 @@ id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
+displayText: '𝐎𝐖𝐍𝐄𝐑😎',
 id: 'owner'
 }
 }]
