@@ -69,7 +69,7 @@ global.websitex = "https://youtu.be/HKZYxw7GlMM" //ur website to be displayed
 global.botscript = 'NERAKA🤡' //script link
 global.reactmoji = "💀" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "𝘿𝘼𝙈𝘼𝙍  𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓\n\n\n\n\n\n\n\n\n\n\n2022" //ur sticker watermark packname
+global.packname = "𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓" //ur sticker watermark packname
 global.author = "𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝘿𝘼𝙈𝘼𝙍 𝙔𝙏" //ur sticker watermark author
 
 //Bot theme media
